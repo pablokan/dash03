@@ -1,6 +1,8 @@
 # tecnored charts
 ## tr02.py es la última versión para digestores
 
+y esta es la integración en FAB:
+
 ```
 @expose("/chartDigestores/")
     @has_access

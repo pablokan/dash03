@@ -1,4 +1,4 @@
-# tecnored charts
+# tecnored charts (dash03) repo mio con pruebas
 ## tr02.py es la última versión para digestores
 
 y esta es la integración en FAB:
